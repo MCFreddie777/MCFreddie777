@@ -1,12 +1,12 @@
 <h1 align="center">František Gič</h1>
 
-<p align="center">Frontend Engineer / Co-Founder of <b>elevAIton</b></p>
+<p align="center">Frontend Engineer / Co-Founder of <b>[elevAIton](https://elevaiton.com)</b></p>
 
 ## $ cat README.md
 
-I turn coffee into Angular, and build big apps that **don't fall over**.
+I turn coffee into code.
 
-I break things on purpose so they stay **unbroken**.
+Coder by day, startup founder by night.
 
 ## $ ls projects
 
@@ -18,17 +18,17 @@ I break things on purpose so they stay **unbroken**.
 
 ## $ cat sidequests.md
 
-PC games · DJing · surfing · rock music · self-taught graphic design · tech news · pink ears · AI-mentored soldering · fixing stuff · and more*
+surfing · DJing · piano · PC games · 3D printing · graphic design · surfskate · soldering stuff · and more*
 
-<sub>*also: leading a dorm student council, getting better (and being a better person) every day at Nexteria, soldering, breaking things and then repairing a bunch of them, fixing toys for my godsons.</sub>
+<sub>*also: I helped students in my dorm wherever I could during my university studies, I'm growing personally at the [Nexteria Leadership Academy](https://nexteria.sk/), and I'm a cool uncle to my godsons.</sub>
 
 ## $ cat stack.txt
 
 Angular · TypeScript · JavaScript · CSS · Cypress · Vue · Laravel · Docker · Git · Node.js
 
 ## $ ./contact.sh
-_Say hi. Go look around._
+_Let's get in touch._
 
-[GitHub](https://github.com/MCFreddie777) · [LinkedIn](https://www.linkedin.com/in/frantisek-gic/) · [dev.to](https://dev.to/frantisek_gic) · [Website](https://mcfreddie777.github.io)
+[LinkedIn](https://www.linkedin.com/in/frantisek-gic/) · [dev.to](https://dev.to/frantisek_gic) · [GitHub](https://github.com/MCFreddie777) · [Website](https://mcfreddie777.github.io)
 
-<p align="center"><sub>2026 | Made with pink kitty ears, of course.</sub></p>
+<p align="center"><sub>2026 | </sub></p>
