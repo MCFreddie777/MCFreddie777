@@ -10,9 +10,9 @@ I break things on purpose so they stay **unbroken**.
 
 ## $ ls projects
 
-| [rpi-pwm-fan-control](https://github.com/MCFreddie777/rpi-pwm-fan-control) | [ckeditor5-code-block](https://github.com/MCFreddie777/ckeditor5-code-block) | [angular-15-cli-template](https://github.com/MCFreddie777/angular-15-cli-template) |
-|---|---|---|
-| A Raspberry Pi that spins its fan only as fast as the temperature demands. | A code block feature for CKEditor 5. | An Angular 15 starter, so the next project begins on a good day. |
+| [rpi-pwm-fan-control](https://github.com/MCFreddie777/rpi-pwm-fan-control) | [ckeditor5-code-block](https://github.com/MCFreddie777/ckeditor5-code-block) |
+|---|---|
+| A Raspberry Pi that spins its fan only as fast as the temperature demands. | A code block feature for CKEditor 5. |
 
 **[view more projects](https://mcfreddie777.github.io/en/projects/)**
 
