@@ -14,7 +14,7 @@ Coder by day, startup founder by night.
 |---|---|
 | A Raspberry Pi that spins its fan only as fast as the temperature demands. | A code block feature for CKEditor 5. |
 
-**[view more projects](https://mcfreddie777.github.io/en/projects/)**
+**[view more projects](https://frantisekgic.sk/en/projects/)**
 
 ## $ cat sidequests.md
 
@@ -29,6 +29,6 @@ Angular · TypeScript · JavaScript · CSS · Cypress · Vue · Laravel · Docke
 ## $ ./contact.sh
 _Let's get in touch._
 
-[LinkedIn](https://www.linkedin.com/in/frantisek-gic/) · [dev.to](https://dev.to/frantisek_gic) · [GitHub](https://github.com/MCFreddie777) · [Website](https://mcfreddie777.github.io)
+[LinkedIn](https://www.linkedin.com/in/frantisek-gic/) · [dev.to](https://dev.to/frantisek_gic) · [GitHub](https://github.com/MCFreddie777) · [Website](https://frantisekgic.sk)
 
 <p align="center"><sub>2026 | </sub></p>
