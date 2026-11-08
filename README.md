@@ -14,7 +14,7 @@ I break things on purpose so they stay **unbroken**.
 |---|---|---|
 | A Raspberry Pi that spins its fan only as fast as the temperature demands. | A code block feature for CKEditor 5. | An Angular 15 starter, so the next project begins on a good day. |
 
-**[view more projects →](https://mcfreddie777.github.io/en/projects/)**
+**[view more projects](https://mcfreddie777.github.io/en/projects/)**
 
 ## $ cat sidequests.md
 
