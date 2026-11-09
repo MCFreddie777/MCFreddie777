@@ -1,6 +1,4 @@
-# František Gič
-
-Frontend Engineer / Co-Founder of <b><a href="https://elevaiton.com">elevAIton</a></b>
+<a href="https://www.frantisekgic.sk"><img src="assets/hero.svg" width="100%" alt="František Gič, Frontend Engineer / Co-Founder of elevAIton"></a>
 
 <a href="https://www.frantisekgic.sk"><img src="https://img.shields.io/badge/My%20Portfolio-c4ee2c?style=for-the-badge" alt="My Portfolio"></a> <a href="https://www.linkedin.com/in/frantisek-gic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a> <a href="https://dev.to/frantisek_gic"><img src="https://img.shields.io/badge/dev.to-3B49DF?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a> <a href="https://github.com/MCFreddie777"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
 
@@ -19,8 +17,6 @@ Whatever I pick up, I go all in. Usually at 120% (when the ADHD kicks in). I lov
 | A Raspberry Pi that spins its fan only as fast as the temperature demands. | A code block feature for CKEditor 5. |
 
 **[view more projects](https://www.frantisekgic.sk/en/projects/)**
-
-## $ cat stack.txt
 
 Currently, I use these languages and tools on a regular basis.
 
