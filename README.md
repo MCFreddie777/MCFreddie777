@@ -10,14 +10,6 @@ I try to help people use AI sensibly, so they stay relevant in the age of AI.
 
 Whatever I pick up, I go all in. Usually at 120% (when the ADHD kicks in). I love a good challenge. When a problem grabs me, I don't let go until it's solved.
 
-## $ ls projects
-
-| [rpi-pwm-fan-control](https://github.com/MCFreddie777/rpi-pwm-fan-control) | [ckeditor5-code-block](https://github.com/MCFreddie777/ckeditor5-code-block) |
-|---|---|
-| A Raspberry Pi that spins its fan only as fast as the temperature demands. | A code block feature for CKEditor 5. |
-
-**[view more projects](https://www.frantisekgic.sk/en/projects/)**
-
 ## $ cat stack.txt
 
 Currently, I use these languages and tools on a regular basis.
