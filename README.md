@@ -8,9 +8,9 @@ Frontend Engineer / Co-Founder of <b><a href="https://elevaiton.com">elevAIton</
 
 I turn coffee into code.
 
-Coder by day, startup founder by night.
+I try to help people use AI sensibly, so they stay relevant in the age of AI.
 
-I have a lot of hobbies and I give 120% to every one of them (when the ADHD kicks in).
+Whatever I pick up, I go all in. Usually at 120% (when the ADHD kicks in). I love a good challenge. When a problem grabs me, I don't let go until it's solved.
 
 ## $ ls projects
 
@@ -22,4 +22,6 @@ I have a lot of hobbies and I give 120% to every one of them (when the ADHD kick
 
 ## $ cat stack.txt
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
+Currently, I use these languages and tools on a regular basis.
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"> 
